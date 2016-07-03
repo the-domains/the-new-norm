@@ -1,0 +1,28 @@
+name: The New Norm
+favicon: null
+layout_spectrum: 0.14111896906979382
+typography_spectrum: 0.3995633376762271
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9504114463925362
+  lightness: 0.9830279459711164
+  saturation: 0.05738944048061967
+  rhythmicContrast: 0.9816107153892517
+purpose: []
